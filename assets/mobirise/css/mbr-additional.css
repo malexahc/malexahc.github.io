@@ -1811,11 +1811,17 @@ body {
 }
 .cid-ra5dabbQP4 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
 .cid-ra5dabbQP4 .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-ra5dabbQP4 H2 {
+  text-align: center;
+}
+.cid-ra5dabbQP4 H3 {
+  text-align: center;
 }
 .cid-r9riX4b3qD {
   padding-top: 90px;
