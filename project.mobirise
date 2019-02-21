@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 15,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -1643,11 +1643,11 @@
           "_afterNavbarItem": false,
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "sound": "https://soundcloud.com/malexahc/sets/voz-femenina-folclorica-vocal-a",
             "autoplay": false,
             "fullWidth": true,
-            "bgColor": "#b2ccd2"
+            "bgColor": "#cccccc"
           },
           "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713951442&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
           "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713951442",
@@ -1656,7 +1656,45 @@
             "Extensión"
           ],
           "_name": "soundcloud1",
-          "_anchor": "soundcloud1-e"
+          "_anchor": "soundcloud1-j"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/malexahc/sets/voz-femenina-lirica-vocal-o",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#ff7f9f"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713987361&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713987361",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-i"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "sound": "https://soundcloud.com/malexahc/sets/voz-femenina-popular-vocal-e",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#b2ccd2"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713995107&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F713995107",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-h"
         }
       ]
     },
